@@ -89,3 +89,102 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.
 
 
 -------
+
+
+
+-------
+
+## YouTube
+
+## Python Tutorials
+https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+Python Tutorials. 
+
+An in-depth look at the Python programming language. 
+
+Learn about Python development, tips and tricks, walkthroughs, and best practices.
+
+### Corey Schafer
+
+
+
+
+-------
+
+## Python Pandas Tutorial
+
+### 128
+
+23:01
+
+Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data
+
+
+### 129
+
+33:35
+
+Python Pandas Tutorial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns
+
+### 130
+
+17:27
+
+Python Pandas Tutorial (Part 3): Indexes - How to Set, Reset, and Use Indexes
+
+
+### 131
+
+23:04
+
+Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns
+
+### 132
+
+40:03
+
+Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames
+
+### 133
+
+16:55
+
+Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames
+
+### 134
+
+15:40
+
+Python Pandas Tutorial (Part 7): Sorting Data
+
+
+### 135
+
+49:06
+
+Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data
+
+### 136
+
+31:54
+
+Python Pandas Tutorial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values
+
+### 137
+
+35:41
+
+Python Pandas Tutorial (Part 10): Working with Dates and Time Series Data
+
+
+### 138
+
+32:45
+
+Python Pandas Tutorial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc
+
+
+
+-------
+
