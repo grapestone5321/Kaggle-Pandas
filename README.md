@@ -87,14 +87,9 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html#pandas.DataFrame.loc
 
 
-
 -------
 
-
-
--------
-
-## YouTube
+# YouTube
 
 ## Python Tutorials
 https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
