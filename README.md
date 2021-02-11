@@ -106,8 +106,12 @@ Learn about Python development, tips and tricks, walkthroughs, and best practice
 
 ### Corey Schafer
 
+-------
 
+# GitHub
 
+## code_snippets/Python/Pandas/
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Pandas
 
 -------
 
